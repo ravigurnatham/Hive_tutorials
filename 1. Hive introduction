@@ -1,0 +1,10 @@
+1. Hive is sql query type language to query the data which is sitting on top of hdfs.
+
+2. Hive converts the queries into map-reduce tasks which executed on data nodes and result sent to driver once task finished.
+
+3. It can process the various types of files such as avro, Parquet etc.
+
+4. Hive can able to process the only the structure data.
+
+5. Hive is not intended for row updates and deletes because hive intended for olap but not for oltp. The reason for that is it
+   converts every query into map-reduce tasks which could take some time to execute.
