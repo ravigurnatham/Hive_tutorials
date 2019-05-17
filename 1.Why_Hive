@@ -1,0 +1,5 @@
+1. Hive was created by facebook to reduce the programming complexity.
+
+2. Hive allows a programming framework to convert simple SQL like queries to map-reduce tasks.
+
+3. So any developer knows SQL can able to use Hive and No map-reduce code knwoldge is required.
