@@ -1,6 +1,8 @@
 # Hive_tutorials
 ![alt text](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/09/data-processing-workflow-in-hive.jpg)
 
+    Via[https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/09/data-processing-workflow-in-hive.jpg]
+
 1. User submit the query to hive
 
 2. driver creates a hive session and sends it to the compiler to create an execution plan
